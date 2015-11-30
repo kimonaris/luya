@@ -21,7 +21,7 @@ composer create-project zephir/luya-kickstarter:1.0.0-beta1
 
 > Die installation und all ihrere abhängigkeiten welche noch nicht im cache sind kann durchaus mehrere Minuten dauern.
 
-> Die Frage `Do you want to remove the existing VCS (.git, .svn..) history? [Y,n]?` Kannst du mit Ja `Y` beantworten da du das kickstarter repo nicht für dein Luya Projekt bruachst.
+> Die Frage `Do you want to remove the existing VCS (.git, .svn..) history? [Y,n]?` Kannst du mit Ja `Y` beantworten da du das kickstarter repo nicht für dein Luya Projekt brauchst.
 
 Dies wird dir ein Verzeichniss **luya-kickstarter** erstellen.
 
